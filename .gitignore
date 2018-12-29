@@ -9,6 +9,7 @@ out
 gen
 .idea/inspectionProfiles/
 .idea/misc.xml
+.idea/vcs.xml
 .idea/modules.xml
 .idea/react-best-practices.iml
 .idea/workspace.xml
